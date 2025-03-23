@@ -9,7 +9,15 @@ Gennadiy Donchyts, Hessel Winsemius, Jaap Schellekens, Tyler Erickson, Hongkai G
 
 DOI:10.13140/RG.2.1.3956.8880
 
-(Poster PDF)[https://github.com/gena/paper-global-hand/blob/master/images/GlobalHAND30Poster.pdf])
+https://github.com/gena/paper-global-hand/blob/master/images/GlobalHAND30Poster.pdf
 
 ![Global HAND poster](images/global-hand-poster.png)
+
+App: https://gena.users.earthengine.app/view/global-hand
+![Global HAND app](images/global-hand-app.png)
+
+Planforms shown in the app:
+![Global HAND planforms](images/global-hand-planforms.png)
+
+
 
