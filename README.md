@@ -8,3 +8,8 @@ This research was never published as a peer-reviewed paper, but you can find som
 Gennadiy Donchyts, Hessel Winsemius, Jaap Schellekens, Tyler Erickson, Hongkai Gao, Hubert H. G. Savenije, Nick van de Giesen, Global 30m Height Above the Nearest Drainage, European Geoscience Union, Vienna, April 2016
 
 DOI:10.13140/RG.2.1.3956.8880
+
+(Poster PDF)[https://github.com/gena/paper-global-hand/blob/master/images/GlobalHAND30Poster.pdf])
+
+![Global HAND poster](images/global-hand-poster.png)
+
